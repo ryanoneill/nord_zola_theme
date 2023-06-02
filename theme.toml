@@ -1,0 +1,17 @@
+name = "nord_zola_theme"
+description = "A Nord Theme for Zola"
+license = "MIT"
+homepage = "https://github.com/ryanoneill/nord_zola_theme"
+min_version = "0.17.0"
+demo = ""
+
+[extra]
+
+[author]
+name = "Ryan O'Neill"
+homepage = "https://ryanoneill.dev"
+
+[original]
+author = "Arctic Ice Studio & Sven Greb"
+homepage = "https://nordtheme.com"
+repo = "https://github.com/nordtheme/nord"
