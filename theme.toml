@@ -1,7 +1,7 @@
-name = "nord_zola_theme"
-description = "A Nord Theme for Zola"
+name = "nozota_theme"
+description = "A Nord Theme for Zola using Tailwindcss"
 license = "MIT"
-homepage = "https://github.com/ryanoneill/nord_zola_theme"
+homepage = "https://github.com/ryanoneill/nozota_theme"
 min_version = "0.17.0"
 demo = ""
 

@@ -1,7 +1,7 @@
 {
-  "name": "nord_zola_theme",
+  "name": "nozota_theme",
   "version": "0.1.0",
-  "description": "A Nord Theme for the Zola Static Site Generator",
+  "description": "A Nord Theme for the Zola Static Site Generator using Tailwindcss",
   "scripts": {
     "build": "postcss src/styles.css -o static/styles.css"
   },
